@@ -1,0 +1,230 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ND55\\Desktop\\NanoAI\\NanoAI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E35A13AE-C2A1-4E67-9C96-26713AD35C8C}|NanoAI.csproj|c:\\users\\nd55\\desktop\\nanoai\\nanoai\\core\\nlu\\handlers\\smartcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E35A13AE-C2A1-4E67-9C96-26713AD35C8C}|NanoAI.csproj|solutionrelative:core\\nlu\\handlers\\smartcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E35A13AE-C2A1-4E67-9C96-26713AD35C8C}|NanoAI.csproj|c:\\users\\nd55\\desktop\\nanoai\\nanoai\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E35A13AE-C2A1-4E67-9C96-26713AD35C8C}|NanoAI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E35A13AE-C2A1-4E67-9C96-26713AD35C8C}|NanoAI.csproj|C:\\Users\\ND55\\Desktop\\NanoAI\\NanoAI\\core\\nlu\\handlers\\launchcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E35A13AE-C2A1-4E67-9C96-26713AD35C8C}|NanoAI.csproj|solutionrelative:core\\nlu\\handlers\\launchcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E35A13AE-C2A1-4E67-9C96-26713AD35C8C}|NanoAI.csproj|C:\\Users\\ND55\\Desktop\\NanoAI\\NanoAI\\apikey.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E35A13AE-C2A1-4E67-9C96-26713AD35C8C}|NanoAI.csproj|solutionrelative:apikey.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E35A13AE-C2A1-4E67-9C96-26713AD35C8C}|NanoAI.csproj|C:\\Users\\ND55\\Desktop\\NanoAI\\NanoAI\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{E35A13AE-C2A1-4E67-9C96-26713AD35C8C}|NanoAI.csproj|solutionrelative:packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E35A13AE-C2A1-4E67-9C96-26713AD35C8C}|NanoAI.csproj|C:\\Users\\ND55\\Desktop\\NanoAI\\NanoAI\\core\\nlu\\handlers\\uiactionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E35A13AE-C2A1-4E67-9C96-26713AD35C8C}|NanoAI.csproj|solutionrelative:core\\nlu\\handlers\\uiactionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E35A13AE-C2A1-4E67-9C96-26713AD35C8C}|NanoAI.csproj|C:\\Users\\ND55\\Desktop\\NanoAI\\NanoAI\\flaui\\flauiautomation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E35A13AE-C2A1-4E67-9C96-26713AD35C8C}|NanoAI.csproj|solutionrelative:flaui\\flauiautomation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E35A13AE-C2A1-4E67-9C96-26713AD35C8C}|NanoAI.csproj|C:\\Users\\ND55\\Desktop\\NanoAI\\NanoAI\\Core\\NLU\\Handlers\\ProjectCommandHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E35A13AE-C2A1-4E67-9C96-26713AD35C8C}|NanoAI.csproj|solutionrelative:Core\\NLU\\Handlers\\ProjectCommandHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E35A13AE-C2A1-4E67-9C96-26713AD35C8C}|NanoAI.csproj|C:\\Users\\ND55\\Desktop\\NanoAI\\NanoAI\\Core\\NLU\\EnhancedGeminiService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E35A13AE-C2A1-4E67-9C96-26713AD35C8C}|NanoAI.csproj|solutionrelative:Core\\NLU\\EnhancedGeminiService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E35A13AE-C2A1-4E67-9C96-26713AD35C8C}|NanoAI.csproj|C:\\Users\\ND55\\Desktop\\NanoAI\\NanoAI\\Gemini\\GeminiCommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E35A13AE-C2A1-4E67-9C96-26713AD35C8C}|NanoAI.csproj|solutionrelative:Gemini\\GeminiCommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E35A13AE-C2A1-4E67-9C96-26713AD35C8C}|NanoAI.csproj|C:\\Users\\ND55\\Desktop\\NanoAI\\NanoAI\\Core\\NLU\\NLUContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E35A13AE-C2A1-4E67-9C96-26713AD35C8C}|NanoAI.csproj|solutionrelative:Core\\NLU\\NLUContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E35A13AE-C2A1-4E67-9C96-26713AD35C8C}|NanoAI.csproj|C:\\Users\\ND55\\Desktop\\NanoAI\\NanoAI\\Core\\ActionExecutor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E35A13AE-C2A1-4E67-9C96-26713AD35C8C}|NanoAI.csproj|solutionrelative:Core\\ActionExecutor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SmartCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\ND55\\Desktop\\NanoAI\\NanoAI\\Core\\NLU\\Handlers\\SmartCommandHandler.cs",
+              "RelativeDocumentMoniker": "Core\\NLU\\Handlers\\SmartCommandHandler.cs",
+              "ToolTip": "C:\\Users\\ND55\\Desktop\\NanoAI\\NanoAI\\Core\\NLU\\Handlers\\SmartCommandHandler.cs",
+              "RelativeToolTip": "Core\\NLU\\Handlers\\SmartCommandHandler.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAQwHkBAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T13:40:30.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ND55\\Desktop\\NanoAI\\NanoAI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ND55\\Desktop\\NanoAI\\NanoAI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAEwD8AAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T07:54:24.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LaunchCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\ND55\\Desktop\\NanoAI\\NanoAI\\Core\\NLU\\Handlers\\LaunchCommandHandler.cs",
+              "RelativeDocumentMoniker": "Core\\NLU\\Handlers\\LaunchCommandHandler.cs",
+              "ToolTip": "C:\\Users\\ND55\\Desktop\\NanoAI\\NanoAI\\Core\\NLU\\Handlers\\LaunchCommandHandler.cs",
+              "RelativeToolTip": "Core\\NLU\\Handlers\\LaunchCommandHandler.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAswBQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T09:56:17.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FlaUIAutomation.cs",
+              "DocumentMoniker": "C:\\Users\\ND55\\Desktop\\NanoAI\\NanoAI\\FlaUI\\FlaUIAutomation.cs",
+              "RelativeDocumentMoniker": "FlaUI\\FlaUIAutomation.cs",
+              "ToolTip": "C:\\Users\\ND55\\Desktop\\NanoAI\\NanoAI\\FlaUI\\FlaUIAutomation.cs",
+              "RelativeToolTip": "FlaUI\\FlaUIAutomation.cs",
+              "ViewState": "AQIAAAwAAACgMzMzM/M6wAQAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T09:42:22.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\ND55\\Desktop\\NanoAI\\NanoAI\\packages.config",
+              "RelativeDocumentMoniker": "packages.config",
+              "ToolTip": "C:\\Users\\ND55\\Desktop\\NanoAI\\NanoAI\\packages.config",
+              "RelativeToolTip": "packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-04-25T09:35:22.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UIActionHandler.cs",
+              "DocumentMoniker": "C:\\Users\\ND55\\Desktop\\NanoAI\\NanoAI\\Core\\NLU\\Handlers\\UIActionHandler.cs",
+              "RelativeDocumentMoniker": "Core\\NLU\\Handlers\\UIActionHandler.cs",
+              "ToolTip": "C:\\Users\\ND55\\Desktop\\NanoAI\\NanoAI\\Core\\NLU\\Handlers\\UIActionHandler.cs",
+              "RelativeToolTip": "Core\\NLU\\Handlers\\UIActionHandler.cs",
+              "ViewState": "AQIAAAMBAAAAAAAAAAAEwBMBAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T08:59:19.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EnhancedGeminiService.cs",
+              "DocumentMoniker": "C:\\Users\\ND55\\Desktop\\NanoAI\\NanoAI\\Core\\NLU\\EnhancedGeminiService.cs",
+              "RelativeDocumentMoniker": "Core\\NLU\\EnhancedGeminiService.cs",
+              "ToolTip": "C:\\Users\\ND55\\Desktop\\NanoAI\\NanoAI\\Core\\NLU\\EnhancedGeminiService.cs",
+              "RelativeToolTip": "Core\\NLU\\EnhancedGeminiService.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAWwFkAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T08:59:08.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GeminiCommand.cs",
+              "DocumentMoniker": "C:\\Users\\ND55\\Desktop\\NanoAI\\NanoAI\\Gemini\\GeminiCommand.cs",
+              "RelativeDocumentMoniker": "Gemini\\GeminiCommand.cs",
+              "ToolTip": "C:\\Users\\ND55\\Desktop\\NanoAI\\NanoAI\\Gemini\\GeminiCommand.cs",
+              "RelativeToolTip": "Gemini\\GeminiCommand.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAuwDsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T08:49:26.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "NLUContext.cs",
+              "DocumentMoniker": "C:\\Users\\ND55\\Desktop\\NanoAI\\NanoAI\\Core\\NLU\\NLUContext.cs",
+              "RelativeDocumentMoniker": "Core\\NLU\\NLUContext.cs",
+              "ToolTip": "C:\\Users\\ND55\\Desktop\\NanoAI\\NanoAI\\Core\\NLU\\NLUContext.cs",
+              "RelativeToolTip": "Core\\NLU\\NLUContext.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAEwDMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T15:10:29.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "apiKey.txt",
+              "DocumentMoniker": "C:\\Users\\ND55\\Desktop\\NanoAI\\NanoAI\\apiKey.txt",
+              "RelativeDocumentMoniker": "apiKey.txt",
+              "ToolTip": "C:\\Users\\ND55\\Desktop\\NanoAI\\NanoAI\\apiKey.txt",
+              "RelativeToolTip": "apiKey.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-04-25T10:18:52.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProjectCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\ND55\\Desktop\\NanoAI\\NanoAI\\Core\\NLU\\Handlers\\ProjectCommandHandler.cs",
+              "RelativeDocumentMoniker": "Core\\NLU\\Handlers\\ProjectCommandHandler.cs",
+              "ToolTip": "C:\\Users\\ND55\\Desktop\\NanoAI\\NanoAI\\Core\\NLU\\Handlers\\ProjectCommandHandler.cs",
+              "RelativeToolTip": "Core\\NLU\\Handlers\\ProjectCommandHandler.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAD4vzAAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T09:03:01.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ActionExecutor.cs",
+              "DocumentMoniker": "C:\\Users\\ND55\\Desktop\\NanoAI\\NanoAI\\Core\\ActionExecutor.cs",
+              "RelativeDocumentMoniker": "Core\\ActionExecutor.cs",
+              "ToolTip": "C:\\Users\\ND55\\Desktop\\NanoAI\\NanoAI\\Core\\ActionExecutor.cs",
+              "RelativeToolTip": "Core\\ActionExecutor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T15:08:36.945Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
